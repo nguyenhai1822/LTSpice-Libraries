@@ -1,0 +1,10 @@
+* C:\Users\Acer\Desktop\IC\inv\inv.asc
+M1 vdd in out vdd CMOSP l=l w=w
+M2 out in 0 0 CMOSN l=l w=w
+Vdd vdd 0 1
+Vin in 0 pulse 0 1 0 1n 1n 0.5u 1u
+.inc tsmc018.lib
+.param l=500n
+.param w=1u
+.backanno
+.end
