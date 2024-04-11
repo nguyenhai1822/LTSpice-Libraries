@@ -1,0 +1,28 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -48 -128 16 -128
+LINE Normal -48 -64 -48 -128
+LINE Normal 16 -64 -48 -64
+LINE Normal -80 -112 -48 -112
+LINE Normal -80 -80 -48 -80
+LINE Normal -16 -160 -16 -128
+LINE Normal -16 -32 -16 -64
+LINE Normal 80 -96 64 -96
+CIRCLE Normal 64 -88 48 -104
+ARC Normal -16 -128 48 -64 16 -64 16 -128
+TEXT -34 -97 Left 2 NAND
+PIN -16 -160 NONE 8
+PINATTR PinName VDD
+PINATTR SpiceOrder 1
+PIN -16 -32 NONE 8
+PINATTR PinName LOW
+PINATTR SpiceOrder 2
+PIN -80 -112 NONE 8
+PINATTR PinName A
+PINATTR SpiceOrder 3
+PIN -80 -80 NONE 8
+PINATTR PinName B
+PINATTR SpiceOrder 4
+PIN 80 -96 NONE 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 5
