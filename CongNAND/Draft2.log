@@ -1,0 +1,34 @@
+Circuit: * C:\Users\Acer\Desktop\IC\CongNAND\Draft2.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Limiting rise time of source v2 to 0.002
+Limiting fall time of source v2 to 0.002
+Limiting rise time of source v3 to 0.002
+Limiting fall time of source v3 to 0.002
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Mar 22 10:38:49 2024
+Total elapsed time: 0.082 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3813
+traniter = 3805
+tranpoints = 1522
+accept = 1408
+rejected = 114
+matrix size = 8
+fillins = 0
+solver = Normal
+Avg thread counts: 1.7/2.7/2.8/1.7
+Matrix Compiler1: 354 bytes object code size  0.1/0.2/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.2
+
